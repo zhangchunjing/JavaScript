@@ -412,6 +412,26 @@
     <p>这是一个段落</p>
     <p>这是另一个段落</p>
 </div>
+<script>
+    var para=document.createElement("p");//创建新的元素para
+    var node=document.createTextNode("这是新添加的段落。");//创建文本节点node
+    para.appendChild(node);//向添加的元素para追加这个文本节点node
+    var element=document.getElementById("div1");//找到一个已有的元素
+    element.appendChild(para);//向这个已有的元素追加新元素
+</script>
+
+<h3>删除已有的HTML元素</h3>
+<p>如需删除 HTML 元素，您必须首先获得该元素的父元素：</p>
+<div id="div2">
+    <p id="pa1">这是一个段落</p>
+    <p id="pa2">这是另一个段落</p>
+</div>
+<script>
+    var parent=document.getElementById("div2");//找到父元素div2
+    var child=document.getElementById("pa1");//找到要删除的子元素pa1
+    parent.removeChild(child);//从父元素div2中删除子元素pa1
+</script>
+<a href="http://www.w3school.com.cn/htmldom/index.asp">完整的HTML DOM教程</a><br/>
 
 
 </body>
