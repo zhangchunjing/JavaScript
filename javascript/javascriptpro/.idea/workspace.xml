@@ -15,40 +15,40 @@
     <session id="2118318108">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="6" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.open.time.7" value="10" />
+          <entry key="project.open.time.8" value="7" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="12" />
+          <entry key="html" value="18" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="12" />
+          <entry key="HTML" value="18" />
           <entry key="JavaScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="26" />
-          <entry key="html" value="20085" />
+          <entry key="html" value="26944" />
           <entry key="js" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="26" />
-          <entry key="HTML" value="20085" />
+          <entry key="HTML" value="26944" />
           <entry key="JavaScript" value="17" />
         </counts>
       </usages-collector>
@@ -57,45 +57,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld.html">
+        <entry file="file://$PROJECT_DIR$/JS语句.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="8227">
+              <caret line="433" column="77" selection-start-line="433" selection-start-column="77" selection-end-line="433" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS对象.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSWindow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="204" column="44" selection-start-line="204" selection-start-column="44" selection-end-line="204" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html元素属性格式化.html">
+        <entry file="file://$PROJECT_DIR$/JS库.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="935" column="7" selection-start-line="935" selection-start-column="7" selection-end-line="935" selection-end-column="7" />
-              <folding>
-                <element signature="e#25059#25063#0" expanded="true" />
-                <element signature="e#25068#25072#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS语句.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="412" column="9" selection-start-line="412" selection-start-column="9" selection-end-line="412" selection-end-column="9" />
-              <folding>
-                <element signature="e#7542#7646#0" expanded="true" />
-                <element signature="e#8106#8211#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="418">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -125,8 +117,11 @@
         <option value="$PROJECT_DIR$/框架.html" />
         <option value="$PROJECT_DIR$/HelloWorld.html" />
         <option value="$PROJECT_DIR$/html元素属性格式化.html" />
-        <option value="$PROJECT_DIR$/JS语句.html" />
         <option value="$PROJECT_DIR$/git.html" />
+        <option value="$PROJECT_DIR$/JS语句.html" />
+        <option value="$PROJECT_DIR$/JS对象.html" />
+        <option value="$PROJECT_DIR$/JSWindow.html" />
+        <option value="$PROJECT_DIR$/JS库.html" />
       </list>
     </option>
   </component>
@@ -137,7 +132,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="999" />
+    <option name="x" value="984" />
+    <option name="y" value="22" />
     <option name="width" value="900" />
     <option name="height" value="1092" />
   </component>
@@ -217,12 +213,16 @@
       <workItem from="1552731656605" duration="218000" />
       <workItem from="1552731896266" duration="205000" />
       <workItem from="1552732124878" duration="7787000" />
-      <workItem from="1552788943486" duration="14068000" />
+      <workItem from="1552788943486" duration="16277000" />
+      <workItem from="1552826730144" duration="7692000" />
+      <workItem from="1552871253896" duration="7035000" />
+      <workItem from="1552891648675" duration="7198000" />
+      <workItem from="1552983756051" duration="3049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104434000" />
+    <option name="totallyTimeSpent" value="131617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,10 +234,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="666" y="0" width="600" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="656" y="15" width="600" height="728" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19326241" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28014183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,13 +263,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld.js" />
-    <entry file="file://$PROJECT_DIR$/基本语法.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/强制类型转换.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
@@ -320,6 +312,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/git.html" />
+    <entry file="file://$PROJECT_DIR$/html元素属性格式化.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17765">
+          <caret line="935" column="7" selection-start-line="935" selection-start-column="7" selection-end-line="935" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本语法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -329,30 +336,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS语句.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="412" column="9" selection-start-line="412" selection-start-column="9" selection-end-line="412" selection-end-column="9" />
-          <folding>
-            <element signature="e#7542#7646#0" expanded="true" />
-            <element signature="e#8106#8211#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="8227">
+          <caret line="433" column="77" selection-start-line="433" selection-start-column="77" selection-end-line="433" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/git.html">
+    <entry file="file://$PROJECT_DIR$/JS对象.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="114">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html元素属性格式化.html">
+    <entry file="file://$PROJECT_DIR$/JSWindow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="935" column="7" selection-start-line="935" selection-start-column="7" selection-end-line="935" selection-end-column="7" />
-          <folding>
-            <element signature="e#25059#25063#0" expanded="true" />
-            <element signature="e#25068#25072#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="228">
+          <caret line="204" column="44" selection-start-line="204" selection-start-column="44" selection-end-line="204" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS库.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
         </state>
       </provider>
     </entry>
